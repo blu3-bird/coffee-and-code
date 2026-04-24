@@ -13,38 +13,34 @@ This repository is designed for learning and practicing:
 ## 📁 Project Structure
 
 ```
-practice-repo/
-├── README.md                 # You are here!
-├── .gitignore               # Files to ignore in Git
-├── index.html               # Main landing page
-├── styles.css               # Global styles
-│
-├── examples/                # Example projects and sample files
+Coffee-and-code/
+├── .git/                    # Git repository metadata
+├── .gitignore               # Git ignore file
+├── README.md                # Main README
+├── index.html               # Main HTML file
+├── index.js                 # Main JavaScript file
+├── styles.css               # Main CSS file
+├── challenges/
+│   └── README.md
+├── contributors/
 │   ├── README.md
 │   ├── project-all-rounder/
-│   │   ├── all-rounder.html
-│   │   └── all-rounder.css
+│   │   ├── all-rounder.css
+│   │   └── all-rounder.html
 │   ├── project-arson/
-│   │   ├── arson.html
-│   │   └── arson.css
-│   ├── sample-page.html
-│   └── sample-script.js
-│
-├── practice-scenarios/      # Structured Git practice scenarios
+│   │   ├── arson.css
+│   │   └── arson.html
+│   └── project-missyMess/
+│       └── missyMess.html
+├── practice-scenarios/
 │   └── README.md
-│
-├── challenges/              # Hands-on Git challenges
+├── resources/
 │   └── README.md
-│
-├── resources/               # Learning resources & cheat sheets
-│   └── README.md
-│
-└── templates/               # Project templates to get started
+└── templates/
     ├── README.md
     ├── project-template.html
     └── styles.css
 ```
-
 ## 🎯 How to Practice
 
 ### For Beginners

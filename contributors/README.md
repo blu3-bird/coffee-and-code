@@ -8,9 +8,9 @@ This folder contains example projects and sample files to help you understand th
 - **project-all-rounder/** - A complete example project with HTML and CSS
 - **project-arson/** - Another example project demonstrating basic web development
 
-### Sample Files
-- **sample-page.html** - A simple HTML page example
-- **sample-script.js** - A basic JavaScript file example
+- **project-missyMess/** - Another example project demonstrating basic web development
+
+
 
 ## 🎯 How to Use These Examples
 

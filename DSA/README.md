@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2b1d0e,100:8B5E3C&height=200&section=header&text=DSA%20Corner&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Structures%20%26%20Algorithms%2C%20one%20PR%20at%20a%20time&descAlignY=58&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2b1d0e,100:8B5E3C&height=200&section=header&text=DSA%20Corner&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Structures%20and%20Algorithms%2C%20one%20PR%20at%20a%20time&descAlignY=58&descSize=17)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5E3C&center=true&vCenter=true&width=650&lines=Pick+a+problem.+Solve+it.+Submit+it.;Arrays.+Trees.+Graphs.+Dynamic+Programming.;Every+solution+lives+in+its+own+folder.;No+solution+is+too+small+to+share.)](https://git.io/typing-svg)
 

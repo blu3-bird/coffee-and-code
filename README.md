@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6F4E37,100:C4A484&height=220&section=header&text=Coffee%20%26%20Code&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Brew%20your%20skills.%20One%20commit%20at%20a%20time.&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6F4E37,100:C4A484&height=220&section=header&text=Coffee%20and%20Code&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Brew%20your%20skills.%20One%20commit%20at%20a%20time.&descAlignY=58&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F4E37&center=true&vCenter=true&width=650&lines=Fork+it.+Branch+it.+Break+it.+Fix+it.;A+practice+ground+for+real+Git+workflows.;Beginners+welcome%2C+mistakes+encouraged.;Now+brewing%3A+Data+Structures+%26+Algorithms.)](https://git.io/typing-svg)
 
